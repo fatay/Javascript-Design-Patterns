@@ -1,5 +1,5 @@
 # Javascript-Design-Patterns
-Design Patterns in Javascript and Usage
+Design Patterns in Javascript and It's Usage
 
 * Singleton
 * Factory
