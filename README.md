@@ -7,5 +7,3 @@ Design Patterns in Javascript and It's Usage
 * Mediator 
 * Module 
 * Observer
-
-Design Patterns Explained.
